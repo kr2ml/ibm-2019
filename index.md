@@ -11,22 +11,28 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 
 # Tentative Schedule (9 am - 6 pm)
 
-* Title tbd  (45 mins)
+<!--|----------|----------|---------------------------------|--------------------	|                 	
+| 9:00 	| 9:45     	| Invited Talk                        	| *Title tbd* [Andrew McCallum(https://people.cs.umass.edu/~mccallum/)                   	|
+| 9:45     	| 10:45     	| *L+R over Graphs*                  	|
+| 	|     	|                 	| [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) |
+| 	|     	|                 	| [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) |
+-->
+* Title tbd  (45 mins)\
 Andrew McCallum (UMass)
-* L+R over Graphs (60 mins)
-Brandy Freitas (Pitney Bowes)
+* L+R over Graphs (60 mins)\
+Brandy Freitas (Pitney Bowes)\
 Kelsey Allen (MIT)
 * Coffee + KR2ML@IBM Posters  (30 mins)
-* Topic tbd (45 mins)
+* Topic tbd (45 mins)\
 Milind Tambe (Harvard)
-* L+R Applications/Systems (60 mins)
+* L+R Applications/Systems (60 mins)\
 Achille Fokoue (IBM)
 * Lunch (75 mins) 
-* Topic tbd (45 mins)
+* Topic tbd (45 mins)\
 Invited Talk
 * QA Challenge Session + Open Discussion (60 mins)
 * Coffee + KR2ML@IBM Posters (30 mins)
-* Open Discussion (60 + 30 mins)
+* Open Discussion (60 + 30 mins)\
 "Challenges, opportunities, and next steps in bridging KRR and ML"
 
 Check also out the rest of the program of [AI Week](https://ibm.biz/ai-research-week).
