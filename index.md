@@ -27,7 +27,8 @@ Kelsey Allen (MIT)
 * Topic tbd (45 mins)\
 Milind Tambe (Harvard)
 * L+R Applications/Systems (60 mins)\
-Achille Fokoue (IBM)
+Achille Fokoue (IBM)\
+Lee Martie (IBM)
 * Lunch (75 mins) 
 * Topic tbd (45 mins)\
 Invited Talk
