@@ -18,7 +18,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 |------------------------------------------------|----------|
 | (Invited Talk) Title TBD - Andrew McCallum (UMass Amherst)    | 45 mins  |
 | L+R Over Graphs: Brandy Freitas (Pitney Bowes) | 30 mins  |
-| L+R Over Grpahs: Kelsey Allen (MIT)            | 30 mins  |
+| L+R Over Graphs: Kelsey Allen (MIT)            | 30 mins  |
 | Coffee + KR2ML@IBM Posters                     | 30 mins  |
 | (Invited Talk) Title TBD - Milind Tambe (Harvard)             | 45 mins  |
 | L+R Applications/Systems: Achille Fokoue (IBM) | 30 mins  |
