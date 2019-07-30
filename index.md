@@ -5,39 +5,31 @@ subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
 ## Date: 9/19/19, 9 am to 6 pm
-## Location: coming soon
+## Location: Coming Soon (Cambridge MA)
 
 # About
 
-Machine learning (ML) has seen a tremendous amount of recent success and has been applied in a variety of applications. However, it comes with several drawbacks, such as the need for large amounts of training data and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KR and ML.
+Machine learning (ML) has seen a tremendous amount of recent success, and has been applied in a variety of applications. However, some of these methods come with several drawbacks, such as the need for large amounts of training data, and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KR and ML.
 
 # Tentative Schedule: 
-<!--|----------|----------|---------------------------------|--------------------	|                 	
-| 9:00 	| 9:45     	| Invited Talk                        	| *Title tbd* [Andrew McCallum(https://people.cs.umass.edu/~mccallum/)                   	|
-| 9:45     	| 10:45     	| *L+R over Graphs*                  	|
-| 	|     	|                 	| [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) |
-| 	|     	|                 	| [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) |
--->
-* Title tbd  (45 mins)\
-Andrew McCallum (UMass)
-* L+R over Graphs (60 mins)\
-Brandy Freitas (Pitney Bowes)\
-Kelsey Allen (MIT)
-* Coffee + KR2ML@IBM Posters  (30 mins)
-* Topic tbd (45 mins)\
-Milind Tambe (Harvard)
-* L+R Applications/Systems (60 mins)\
-Achille Fokoue (IBM)\
-Lee Martie (IBM)
-* Lunch (75 mins) 
-* Topic tbd (45 mins)\
-Invited Talk
-* QA Challenge Session + Open Discussion (60 mins)
-* Coffee + KR2ML@IBM Posters (30 mins)
-* Open Discussion (60 + 30 mins)\
-"Challenges, opportunities, and next steps in bridging KRR and ML"
 
-Check also out the rest of the program of [AI Week](https://ibm.biz/ai-research-week).
+
+| Event                                          | Duration |
+|------------------------------------------------|----------|
+| (Invited Talk) Title TBD - Andrew McCallum (UMass Amherst)    | 45 mins  |
+| L+R Over Graphs: Brandy Freitas (Pitney Bowes) | 30 mins  |
+| L+R Over Grpahs: Kelsey Allen (MIT)            | 30 mins  |
+| Coffee + KR2ML@IBM Posters                     | 30 mins  |
+| (Invited Talk) Title TBD - Milind Tambe (Harvard)             | 45 mins  |
+| L+R Applications/Systems: Achille Fokoue (IBM) | 30 mins  |
+| L+R Applications/Systems: Lee Martie (IBM)     | 30 mins  |
+| Lunch                                          | 75 mins  |
+| (Invited Talk) Title TBD                       | 45 mins  |
+| QA Challenge Session + Open Discussion         | 60 mins  |
+| Coffee + KR2ML@IBM Posters                     | 30 mins  |
+| Open Discussion: *Challenges, Opportunities & Next Steps in Bridging KRR & ML*                                | 90 mins|
+
+Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
 
 # Organizers
