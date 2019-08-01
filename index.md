@@ -53,7 +53,7 @@ Q2a: When did Latvia become part of the EU?
 
 ### Training Data<a name="challenge-train-data"></a>
 
-The training data is available for download now. 
+The training data is [available for download now](https://kr2ml.github.io/ibm-2019/qa-challenge/kr2ml_train.tsv). 
 
 There are 5 tab separated columns in the file:
 
