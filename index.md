@@ -21,7 +21,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) (Pitney Bowes)                |          |
 | - [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) (MIT)                           |          |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
-| Coffee + KR2ML@IBM Posters                     | 30 mins  |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 30 mins  |
 | (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 45 mins  |
 | L+R Applications/Systems                       | 60 mins  |
 | - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                         |           |
@@ -32,7 +32,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | [QA Challenge Session](#qa-challenge-session) + Open Discussion         | 60 mins  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM) | |
-| Coffee + KR2ML@IBM Posters                     | 30 mins  |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 30 mins  |
 | Discussion: *Challenges, Opportunities & Next Steps in Bridging KRR & ML*                                | 90 mins|
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
