@@ -47,15 +47,15 @@ We will build upon the series of [QALD challenges](http://qald.aksw.org/) and re
 
 The underlying knowledge base will be DBpedia (2016-10 version), and Wikipedia as the optional text corpus. The participants may use the information present in the structured knowledge base and the unstructured text corpus to understand the natural language query and output the structured representation.  Most of the existing systems for translating natural language queries to structured representation often rely on a set of rules or templates. As a result, such systems are very brittle and fail to perform even with slight variations of the query. To overcome that, generated multiple paraphrasing/variants of the same question to test how sensitive the algorithms are to such changes.
 
+
 ### Examples
 
-Q1:  Give me the currency of China.
 
-Q1a: What is the name of currency used in China?
+`Q1:  Give me the currency of China.` <br />
+`Q1a: What is the name of currency used in China?`
 
-Q2:  When did Latvia join the EU?
-
-Q2a: When did Latvia become part of the EU?
+`Q2:  When did Latvia join the EU?` <br />
+`Q2a: When did Latvia become part of the EU?`
 
 ### Training Data<a name="challenge-train-data"></a>
 
@@ -63,21 +63,17 @@ The training data is [available for download now](https://kr2ml.github.io/ibm-20
 
 There are 5 tab separated columns in the file:
 
-ID: question id
-
-Original Question : original text of the question
-
-Paraphrasing 1  : paraphrasing of the questions by annotator 1
-
-Paraphrasing 2  : paraphrasing of the questions by annotator 2
-
-SPARQL Query    : SPARQL query for the original question
+`ID`: question id <br />
+`Original Question`: original text of the question <br />
+`Paraphrasing 1` : paraphrasing of the questions by annotator 1 <br />
+`Paraphrasing 2` : paraphrasing of the questions by annotator 2 <br />
+`SPARQL Query`: SPARQL query for the original question <br />
  
-### Test Data
+### Test Data & Evaluation
 
 Test Data will be released on 30th August, 2019.
 
-The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop.
+The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop. Please direct all questions to [sumitbhatia@in.ibm.com](sumitbhatia@in.ibm.com).
 
 
 # Poster Session<a name="poster-session"></a>
