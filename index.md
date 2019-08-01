@@ -17,12 +17,16 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | Event                                          | Duration |
 |------------------------------------------------|----------|
 | (Invited Talk) Title TBD - Andrew McCallum (UMass Amherst)    | 45 mins  |
-| L+R Over Graphs: Brandy Freitas (Pitney Bowes) | 30 mins  |
-| L+R Over Graphs: Kelsey Allen (MIT)            | 30 mins  |
+| L+R Over Graphs                                | 60 mins  |
+| - Brandy Freitas (Pitney Bowes)                |          |
+| - Kelsey Allen (MIT)                           |          |
+| - TBA                                          |          |
 | Coffee + KR2ML@IBM Posters                     | 30 mins  |
 | (Invited Talk) Title TBD - Milind Tambe (Harvard)             | 45 mins  |
-| L+R Applications/Systems: Masataro Asai (IBM) | 30 mins  |
-| L+R Applications/Systems: Lee Martie (IBM)     | 30 mins  |
+| L+R Applications/Systems                       | 60 mins  |
+| - Masataro Asai (IBM)                         |           |
+| - Lee Martie (IBM)                             |          |
+| - TBA                                           |         |
 | Lunch                                          | 75 mins  |
 | (Invited Talk) Title TBD                       | 45 mins  |
 | [QA Challenge Session](#qa-challenge-session) + Open Discussion         | 60 mins  |
