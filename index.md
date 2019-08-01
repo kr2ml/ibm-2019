@@ -16,20 +16,22 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 
 | Event                                          | Duration |
 |------------------------------------------------|----------|
-| (Keynote) Title TBD - Andrew McCallum (UMass Amherst)    | 45 mins  |
+| (Keynote) Title TBD - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 45 mins  |
 | L+R Over Graphs                                | 60 mins  |
-| - Brandy Freitas (Pitney Bowes)                |          |
-| - Kelsey Allen (MIT)                           |          |
-| - TBA                                          |          |
+| - [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) (Pitney Bowes)                |          |
+| - [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) (MIT)                           |          |
+| - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
 | Coffee + KR2ML@IBM Posters                     | 30 mins  |
-| (Keynote) Title TBD - Milind Tambe (Harvard)             | 45 mins  |
+| (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 45 mins  |
 | L+R Applications/Systems                       | 60 mins  |
-| - Masataro Asai (IBM)                         |           |
-| - Lee Martie (IBM)                             |          |
-| - TBA                                           |         |
+| - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                         |           |
+| - [Ferran Alet](http://web.mit.edu/alet/www/) (MIT)                             |          |
+| - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
 | Lunch                                          | 75 mins  |
 | (Keynote) Title TBD                       | 45 mins  |
 | [QA Challenge Session](#qa-challenge-session) + Open Discussion         | 60 mins  |
+| - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
+| - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM) | |
 | Coffee + KR2ML@IBM Posters                     | 30 mins  |
 | Discussion: *Challenges, Opportunities & Next Steps in Bridging KRR & ML*                                | 90 mins|
 
@@ -76,6 +78,11 @@ SPARQL Query    : SPARQL query for the original question
 Test Data will be released on 30th August, 2019.
 
 The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop.
+
+
+# Poster Session<a name="poster-session"></a>
+
+We invite all IBMers working on combinations of symbolic knowledge representation/reasoning and machine learning to send us posters to display at the workshop. The poster session is intended to act as a showcase of KR2ML work within IBM to the community at large. The idea of our poster session is to give an insight into the wide variety of work in this particular area done at IBM. The poster session is non-archival, and we welcome work that has been presented at other venues previously, etc. Please send your posters, as well as any questions, to [Veronika.Thost@ibm.com](veronika.thost@ibm.com).
 
 
 
