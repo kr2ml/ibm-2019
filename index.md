@@ -32,12 +32,12 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
 
-# <a name="qa-chalenge-session"></a>QA Challenge
+# QA Challenge<a name="qa-chalenge-session"></a>
 
 This year, we are also organizing a shared task inspired by the challenges encountered when working with real-world enterprise data. End-users interact with AI systems via a natural language interface -- customer support, chatbots, enterprise search, etc. The end-users are not aware of the internal knowledge representation employed by the  AI  system and often lack the expertise to issue structured queries to the underlying knowledge base. 
 
 To this end, we propose a task to automatically translate a natural language query to a structured representation (SPARQL) that can be used to query the underlying knowledge base. 
-We will build upon the series of [QALD challenges](http://qald.aksw.org/) and release a set of training queries -- natural language queries and their corresponding SPARQL queries. The set of questions will be a subset of previous QALD challenges and will be representative of different real-world issues commonly encountered in such applications (noise, ambiguous language, errors in the knowledge base,  etc.). 
+We will build upon the series of [QALD challenges](http://qald.aksw.org/) and release a set of [training queries](#challenge-train-data) -- natural language queries and their corresponding SPARQL queries. The set of questions will be a subset of previous QALD challenges and will be representative of different real-world issues commonly encountered in such applications (noise, ambiguous language, errors in the knowledge base,  etc.). 
 
 The underlying knowledge base will be DBpedia (2016-10 version), and Wikipedia as the optional text corpus. The participants may use the information present in the structured knowledge base and the unstructured text corpus to understand the natural language query and output the structured representation.  Most of the existing systems for translating natural language queries to structured representation often rely on a set of rules or templates. As a result, such systems are very brittle and fail to perform even with slight variations of the query. To overcome that, generated multiple paraphrasing/variants of the same question to test how sensitive the algorithms are to such changes.
 
@@ -51,7 +51,7 @@ Q2:  When did Latvia join the EU?
 
 Q2a: When did Latvia become part of the EU?
 
-### Training Data
+### Training Data<a name="challenge-train-data"></a>
 
 The training data is available for download now. 
 
