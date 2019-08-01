@@ -11,7 +11,7 @@ use-site-title: true
 
 Machine learning (ML) has seen a tremendous amount of recent success, and has been applied in a variety of applications. However, some of these methods come with several drawbacks, such as the need for large amounts of training data, and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KR and ML.
 
-# Tentative Schedule: 
+# Tentative Schedule
 
 
 | Event                                          | Duration |
@@ -21,18 +21,61 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | L+R Over Graphs: Kelsey Allen (MIT)            | 30 mins  |
 | Coffee + KR2ML@IBM Posters                     | 30 mins  |
 | (Invited Talk) Title TBD - Milind Tambe (Harvard)             | 45 mins  |
-| L+R Applications/Systems: Achille Fokoue (IBM) | 30 mins  |
+| L+R Applications/Systems: Masataro Asai (IBM) | 30 mins  |
 | L+R Applications/Systems: Lee Martie (IBM)     | 30 mins  |
 | Lunch                                          | 75 mins  |
 | (Invited Talk) Title TBD                       | 45 mins  |
-| QA Challenge Session + Open Discussion         | 60 mins  |
+| [QA Challenge Session](#qa-challenge-session) + Open Discussion         | 60 mins  |
 | Coffee + KR2ML@IBM Posters                     | 30 mins  |
 | Open Discussion: *Challenges, Opportunities & Next Steps in Bridging KRR & ML*                                | 90 mins|
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
 
-# Organizers
+# <a name="qa-chalenge-session"></a>QA Challenge
+
+This year, we are also organizing a shared task inspired by the challenges encountered when working with real-world enterprise data. End-users interact with AI systems via a natural language interface -- customer support, chatbots, enterprise search, etc. The end-users are not aware of the internal knowledge representation employed by the  AI  system and often lack the expertise to issue structured queries to the underlying knowledge base. 
+
+To this end, we propose a task to automatically translate a natural language query to a structured representation (SPARQL) that can be used to query the underlying knowledge base. 
+We will build upon the series of [QALD challenges](http://qald.aksw.org/) and release a set of training queries -- natural language queries and their corresponding SPARQL queries. The set of questions will be a subset of previous QALD challenges and will be representative of different real-world issues commonly encountered in such applications (noise, ambiguous language, errors in the knowledge base,  etc.). 
+
+The underlying knowledge base will be DBpedia (2016-10 version), and Wikipedia as the optional text corpus. The participants may use the information present in the structured knowledge base and the unstructured text corpus to understand the natural language query and output the structured representation.  Most of the existing systems for translating natural language queries to structured representation often rely on a set of rules or templates. As a result, such systems are very brittle and fail to perform even with slight variations of the query. To overcome that, generated multiple paraphrasing/variants of the same question to test how sensitive the algorithms are to such changes.
+
+### Examples
+
+Q1:  Give me the currency of China.
+
+Q1a: What is the name of currency used in China?
+
+Q2:  When did Latvia join the EU?
+
+Q2a: When did Latvia become part of the EU?
+
+### Training Data
+
+The training data is available for download now. 
+
+There are 5 tab separated columns in the file:
+
+ID: question id
+
+Original Question : original text of the question
+
+Paraphrasing 1  : paraphrasing of the questions by annotator 1
+
+Paraphrasing 2  : paraphrasing of the questions by annotator 2
+
+SPARQL Query    : SPARQL query for the original question
+ 
+### Test Data
+
+Test Data will be released on 30th August, 2019.
+
+The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop.
+
+
+
+# Workshop Organizers
 
 - [Veronika Thost](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Veronika.Thost)
 - [Kartik Talamadupula](http://www.ktalamad.com/)
