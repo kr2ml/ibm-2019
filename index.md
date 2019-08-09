@@ -27,6 +27,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                         |           |
 | - [Ferran Alet](http://web.mit.edu/alet/www/) (MIT)                             |          |
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
+| - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
 | Lunch                                          | 75 mins  |
 | (Keynote) Title TBD                       | 45 mins  |
 | [QA Challenge Session](#qa-challenge-session) + Open Discussion         | 60 mins  |
