@@ -24,7 +24,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1030 - 1100  |
 | (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 1100 - 1145  |
 | L+R New Combinations                       | 1145 - 1230 |
-| - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM): *LatPlan, An Unsupervised Architecture Combining Deep Learning and Classical Planning*                        |           |
+| - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                       |           |
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
 | - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
 | Lunch                                          | 1230-1400  |
@@ -33,7 +33,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
-| [QA Challenge Session](#qa-challenge-session): *Information for RDF-to-Text Generation*        | 1600 - 1700  |
+| [QA Challenge Session](#qa-challenge-session)        | 1600 - 1700  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM) | |
 
