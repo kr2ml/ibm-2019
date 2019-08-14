@@ -28,14 +28,14 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
 | - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
 | Lunch                                          | 1230-1400  |
-| (Keynote) Title TBD                       | 1400-1445  |
+| (Keynote) Title TBD  - [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400-1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
 | [QA Challenge Session](#qa-challenge-session)        | 1600 - 1700  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
-| - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM) | |
+| - Challenge Participants  | |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
