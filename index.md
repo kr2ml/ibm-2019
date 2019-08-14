@@ -16,25 +16,26 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 
 | Event                                          | Duration |
 |------------------------------------------------|----------|
-| (Keynote) Title TBD - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 45 mins  |
-| L+R Over Graphs                                | 60 mins  |
+| (Keynote) Title TBD - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 0900 - 0945  |
+| L+R Graph Representations                                | 0945 - 1030  |
 | - [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) (Pitney Bowes)                |          |
 | - [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) (MIT)                           |          |
-| - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
-| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 30 mins  |
-| (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 45 mins  |
-| L+R Applications/Systems                       | 60 mins  |
-| - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                         |           |
 | - [Ferran Alet](http://web.mit.edu/alet/www/) (MIT)                             |          |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1030 - 1100  |
+| (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 1100 - 1145  |
+| L+R New Combinations                       | 1145 - 1230 |
+| - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM): *LatPlan, An Unsupervised Architecture Combining Deep Learning and Classical Planning*                        |           |
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
 | - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
-| Lunch                                          | 75 mins  |
-| (Keynote) Title TBD                       | 45 mins  |
-| [QA Challenge Session](#qa-challenge-session) + Open Discussion         | 60 mins  |
+| Lunch                                          | 1230-1400  |
+| (Keynote) Title TBD                       | 1400-1445  |
+| L+R Over Knowledge Graphs | 1445 - 1530 |
+| - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
+| - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
+| [QA Challenge Session](#qa-challenge-session): *Information for RDF-to-Text Generation*        | 1600 - 1700  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM) | |
-| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 30 mins  |
-| Discussion: *Challenges, Opportunities & Next Steps in Bridging KRR & ML*                                | 90 mins|
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
