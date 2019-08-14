@@ -5,7 +5,7 @@ subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
 ## Date: 9/19/19, 9 am to 6 pm
-## Location: Coming Soon (Cambridge MA)
+## Location: MIT, [Stratton Student Center](https://studentlife.mit.edu/cac/stratton-student-center), Cambridge MA (Room TBD)
 
 # About
 
