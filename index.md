@@ -16,6 +16,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 
 | Event                                          | Duration |
 |------------------------------------------------|----------|
+| Workshop Welcome  |   |
 | (Keynote) Title TBD - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 0900 - 0945  |
 | L+R Graph Representations                                | 0945 - 1030  |
 | - [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) (Pitney Bowes)                |          |
@@ -27,8 +28,8 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                       |           |
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
 | - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
-| Lunch                                          | 1230-1400  |
-| (Keynote) Title TBD  - [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400-1445  |
+| Lunch                                          | 1230 - 1400  |
+| (Keynote) Title TBD  - [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
@@ -36,6 +37,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | [QA Challenge Session](#qa-challenge-session)        | 1600 - 1700  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - Challenge Participants  | |
+| Workshop Close  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
@@ -75,12 +77,12 @@ There are 5 tab separated columns in the file:
 
 Test Data will be released on 30th August, 2019.
 
-The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop. Please direct all questions to [sumitbhatia@in.ibm.com](sumitbhatia@in.ibm.com).
+The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop. Please direct all questions to [sumitbhatia@in.ibm.com](mailto:sumitbhatia@in.ibm.com).
 
 
 # Poster Session<a name="poster-session"></a>
 
-We invite all IBMers working on combinations of symbolic knowledge representation/reasoning and machine learning to send us posters to display at the workshop. The poster session is intended to act as a showcase of KR2ML work within IBM to the community at large. The idea of our poster session is to give an insight into the wide variety of work in this particular area done at IBM. The poster session is non-archival, and we welcome work that has been presented at other venues previously, etc. Please send your posters, as well as any questions, to [Veronika.Thost@ibm.com](veronika.thost@ibm.com).
+We invite all IBMers working on combinations of symbolic knowledge representation/reasoning and machine learning to send us posters to display at the workshop. The poster session is intended to act as a showcase of KR2ML work within IBM to the community at large. The idea of our poster session is to give an insight into the wide variety of work in this particular area done at IBM. The poster session is non-archival, and we welcome work that has been presented at other venues previously, etc. Please send your posters, as well as any questions, to [Veronika.Thost@ibm.com](mailto:veronika.thost@ibm.com).
 
 
 
