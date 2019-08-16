@@ -4,7 +4,7 @@ title: KR2ML
 subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
-## Date: 9/19/19, 9 am to 6 pm
+## Date: 9/19/19, 9 am to 5 pm
 ## Location: MIT, [Stratton Student Center](https://whereis.mit.edu/?go=W20), Cambridge MA (Room TBD)
 ## Go to [Registration](https://kr2ml.eventbrite.com)
 
