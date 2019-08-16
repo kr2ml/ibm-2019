@@ -77,7 +77,36 @@ There are 5 tab separated columns in the file:
 
 Test Data will be released on 30th August, 2019.
 
-The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop. Please direct all questions to [sumitbhatia@in.ibm.com](mailto:sumitbhatia@in.ibm.com).
+The test file will be a tab separated file with following columns:
+
+`ID`: question id <br />
+`Question`: a natural language question <br />
+
+You will be required to produce the SPARQL query that can be used to answer the question from DBpedia corpus specified above.
+
+You are required to submit the output produced by your system in a single tab separated file with three columns:
+
+`ID`: question id <br />
+`Question`: a natural language question <br />
+`Output SPARQL`: SPARQL query as produced by your system <br />
+
+Note that each line corresponds to one natural language question. Please make sure that there are no line-breaks in the SPARQL query.
+
+The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop.
+
+#### Technical Report
+
+You are also required to submit a brief description of your approach in the form of a technical report/arXiv paper. The paper should provide sufficient details for the readers to understand and replicate your approach. 
+
+### Deadline
+
+The deadline for submission of results is 10th September, 2019.
+
+The results will be announced during the challenge session in the workshop.
+
+### Contact
+
+Please email your submissions, and direct any questions to [sumitbhatia@in.ibm.com](mailto:sumitbhatia@in.ibm.com).
 
 
 # Poster Session<a name="poster-session"></a>
