@@ -6,7 +6,7 @@ use-site-title: true
 ---
 ## Date: 9/19/19, 9 am to 6 pm
 ## Location: MIT, [Stratton Student Center](https://whereis.mit.edu/?go=W20), Cambridge MA (Room TBD)
-## Registration: [Go](https://kr2ml.eventbrite.com)
+## Go to [Registration](https://kr2ml.eventbrite.com)
 
 # About
 
