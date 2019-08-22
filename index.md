@@ -16,6 +16,8 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 
 # Tentative Schedule
 
+Please visit the [detailed schedule](schedule.md) for full details of all the talks and sessions. 
+
 
 | Event                                          | Time |
 |------------------------------------------------|----------|
@@ -37,84 +39,24 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
-| [QA Challenge Session](#qa-challenge-session)        | 1600 - 1700  |
+| [QA Challenge Session](challenge.md)        | 1600 - 1700  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - Challenge Participants  | |
 | Workshop Closing  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
+# QA Challenge 
 
-# QA Challenge<a name="qa-chalenge-session"></a>
+Please [click here](challenge.md) for full details of the KR2ML 2019 QA Challenge session.
 
-This year, we are also organizing a shared task inspired by the challenges encountered when working with real-world enterprise data. End-users interact with AI systems via a natural language interface -- customer support, chatbots, enterprise search, etc. The end-users are not aware of the internal knowledge representation employed by the  AI  system and often lack the expertise to issue structured queries to the underlying knowledge base. 
-
-To this end, we propose a task to automatically translate a natural language query to a structured representation (SPARQL) that can be used to query the underlying knowledge base. 
-We will build upon the series of [QALD challenges](http://qald.aksw.org/) and release a set of [training queries](#challenge-train-data) -- natural language queries and their corresponding SPARQL queries. The set of questions will be a subset of previous QALD challenges and will be representative of different real-world issues commonly encountered in such applications (noise, ambiguous language, errors in the knowledge base,  etc.). 
-
-The underlying knowledge base will be DBpedia (2016-10 version), and Wikipedia as the optional text corpus. The participants may use the information present in the structured knowledge base and the unstructured text corpus to understand the natural language query and output the structured representation.  Most of the existing systems for translating natural language queries to structured representation often rely on a set of rules or templates. As a result, such systems are very brittle and fail to perform satisfactorily when faced with even slight variations of the query. To overcome that, multiple paraphrasing/variants of the same question were generated to test how sensitive the algorithms are to such changes.
-
-
-### Examples
-
-
-`Q1:  Give me the currency of China.` <br />
-`Q1a: What is the name of currency used in China?`
-
-`Q2:  When did Latvia join the EU?` <br />
-`Q2a: When did Latvia become part of the EU?`
-
-### Training Data<a name="challenge-train-data"></a>
-
-The training data is [available for download now](https://kr2ml.github.io/ibm-2019/qa-challenge/kr2ml_train.tsv). 
-
-There are 5 tab separated columns in the file:
-
-`ID`: question id <br />
-`Original Question`: original text of the question <br />
-`Paraphrasing 1` : paraphrasing of the questions by annotator 1 <br />
-`Paraphrasing 2` : paraphrasing of the questions by annotator 2 <br />
-`SPARQL Query`: SPARQL query for the original question <br />
- 
-### Test Data & Evaluation
-
-Test Data will be released on 30th August, 2019.
-
-The test file will be a tab separated file with following columns:
-
-`ID`: question id <br />
-`Question`: a natural language question <br />
-
-You will be required to produce the SPARQL query that can be used to answer the question from DBpedia corpus specified above.
-
-You are required to submit the output produced by your system in a single tab separated file with three columns:
-
-`ID`: question id <br />
-`Question`: a natural language question <br />
-`Output SPARQL`: SPARQL query as produced by your system <br />
-
-Note that each line corresponds to one natural language question. Please make sure that there are no line-breaks in the SPARQL query.
-
-The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop.
-
-#### Technical Report
-
-You are also required to submit a brief description of your approach in the form of a technical report/arXiv paper. The paper should provide sufficient details for the readers to understand and replicate your approach. 
-
-### Deadline
-
-The deadline for submission of results is 10th September, 2019.
-
-The results will be announced during the challenge session in the workshop.
-
-### Contact
-
-Please email your submissions, and direct any questions to [sumitbhatia@in.ibm.com](mailto:sumitbhatia@in.ibm.com).
 
 
 # Poster Session<a name="poster-session"></a>
 
 We invite all IBMers working on combinations of symbolic knowledge representation/reasoning and machine learning to send us posters to display at the workshop. The poster session is intended to act as a showcase of KR2ML work within IBM to the community at large. The idea of our poster session is to give an insight into the wide variety of work in this particular area done at IBM. The poster session is non-archival, and we welcome work that has been presented at other venues previously, etc. Please send your posters, as well as any questions, to [Veronika.Thost@ibm.com](mailto:veronika.thost@ibm.com).
+
+You can find a [list of accepted posters here](schedule.md#poster-session).
 
 
 
