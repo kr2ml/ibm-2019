@@ -55,7 +55,7 @@ Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week
 
 ### Tim Finin, UMBC<a name="tim-finin"></a>
 
-**Title**: TBA
+**Title**: Fifty Years of Using Knowledge Graphs for Language Understanding
 
 
 # Topical Sessions<a name="topical-sessions"></a>
