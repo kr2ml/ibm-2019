@@ -10,120 +10,114 @@ use-site-title: true
 
 <hr>
 
-# About
-
-Machine learning (ML) has seen a tremendous amount of recent success, and has been applied in a variety of applications. However, some of these methods come with several drawbacks, such as the need for large amounts of training data, and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KRR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KRR and ML.
-
-# Tentative Schedule
+# Detailed Schedule
 
 
 | Event                                          | Time |
 |------------------------------------------------|----------|
 | Workshop Welcome  |   |
-| (Keynote) Title TBD - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 0900 - 0945  |
+| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst)    | 0900 - 0945  |
 | L+R Graph Representations                                | 0945 - 1030  |
-| - [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) (Pitney Bowes)                |          |
-| - [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) (MIT)                           |          |
-| - [Ferran Alet](http://web.mit.edu/alet/www/) (MIT)                             |          |
+| - [Brandy Freitas](#brandy-freitas) (Pitney Bowes)                |          |
+| - [Kelsey Allen](#kelsey-allen) (MIT)                           |          |
+| - [Ferran Alet](#ferran-alet) (MIT)                             |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1030 - 1100  |
-| (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 1100 - 1145  |
+| (Keynote) [Milind Tambe](#milind-tambe) (Harvard)             | 1100 - 1145  |
 | L+R New Combinations                       | 1145 - 1230 |
-| - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                       |           |
-| - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
-| - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
+| - [Masataro Asai](#masataro-asai) (IBM)                       |           |
+| - [Lee Martie](#lee-martie) (IBM)                                          |         |
+| - [Yunyao Li](#yunyao-li) (IBM) | | 
 | Lunch                                          | 1230 - 1400  |
-| (Keynote) Title TBD  - [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400 - 1445  |
+| (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
-| - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
-| - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
+| - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
+| - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
-| [QA Challenge Session](#qa-challenge-session)        | 1600 - 1700  |
-| - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
+| [QA Challenge Session](challenge.md)        | 1600 - 1700  |
+| - Sumit Bhatia (IBM) | |
 | - Challenge Participants  | |
 | Workshop Closing  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
 
 
-# QA Challenge<a name="qa-chalenge-session"></a>
+# Keynotes<a name="keynotes"></a>
 
-This year, we are also organizing a shared task inspired by the challenges encountered when working with real-world enterprise data. End-users interact with AI systems via a natural language interface -- customer support, chatbots, enterprise search, etc. The end-users are not aware of the internal knowledge representation employed by the  AI  system and often lack the expertise to issue structured queries to the underlying knowledge base. 
+### Andrew McCallum, UMass Amherst<a name="andrew-mccallum"></a>
 
-To this end, we propose a task to automatically translate a natural language query to a structured representation (SPARQL) that can be used to query the underlying knowledge base. 
-We will build upon the series of [QALD challenges](http://qald.aksw.org/) and release a set of [training queries](#challenge-train-data) -- natural language queries and their corresponding SPARQL queries. The set of questions will be a subset of previous QALD challenges and will be representative of different real-world issues commonly encountered in such applications (noise, ambiguous language, errors in the knowledge base,  etc.). 
+**Title**: Embeddings of Language, Knowledge Representation, and Reasoning
 
-The underlying knowledge base will be DBpedia (2016-10 version), and Wikipedia as the optional text corpus. The participants may use the information present in the structured knowledge base and the unstructured text corpus to understand the natural language query and output the structured representation.  Most of the existing systems for translating natural language queries to structured representation often rely on a set of rules or templates. As a result, such systems are very brittle and fail to perform satisfactorily when faced with even slight variations of the query. To overcome that, multiple paraphrasing/variants of the same question were generated to test how sensitive the algorithms are to such changes.
+### Milind Tambe, Harvard<a name="milind-tambe"></a>
+
+**Title**: AI for Social Good - Learning and Planning in the End-to-End, Data-to-Deployment Pipeline
+
+**Abstract**: With the maturing of AI and multiagent systems research, we have a tremendous opportunity to direct these advances towards addressing complex societal problems. I will focus on the problems of public safety and security, wildlife conservation and public health in low-resource communities, and present research advances in multiagent systems to address one key cross-cutting challenge: how to strategically deploy our limited intervention resources in these problem domains. I will discuss the importance of conducting this research via building the full data to field deployment  end-to-end pipeline rather than just building machine learning or planning components in isolation. Results from our deployments from around the world show concrete improvements over the state of the art. In pushing this research agenda, we believe AI can indeed play an important role in fighting social injustice and improving society.  
+
+### Tim Finin, UMBC<a name="tim-finin"></a>
+
+**Title**: TBA
 
 
-### Examples
+# Topical Sessions<a name="topical-sessions"></a>
+
+## L+R Graph Representations
+
+### Brandy Freitas, Pitney Bowes<a name="brandy-freitas"></a>
+
+**Title**: Graph Native Machine Learning
+
+**Abstract**: Graph databases have become much more widely popularized in the recent year. By representing highly connected data in a graph, we have access to a host of graph native algorithms that depend on and exploit the relationships between our data. Computing and storing graph metrics can add strong new features to nodes, creating innovative predictors for machine learning. Using algorithms designed for path finding, centrality, community detection, and graph pattern matching, we can begin to rely less on inflexible, subject-driven feature engineering. In this session, Brandy Freitas will cover the interplay between graph analytics and machine learning, improved feature engineering with graph native algorithms, and outline the current use of graph technology in industry.
 
 
-`Q1:  Give me the currency of China.` <br />
-`Q1a: What is the name of currency used in China?`
+### Kelsey Allen, MIT<a name="kelsey-allen"></a>
 
-`Q2:  When did Latvia join the EU?` <br />
-`Q2a: When did Latvia become part of the EU?`
-
-### Training Data<a name="challenge-train-data"></a>
-
-The training data is [available for download now](https://kr2ml.github.io/ibm-2019/qa-challenge/kr2ml_train.tsv). 
-
-There are 5 tab separated columns in the file:
-
-`ID`: question id <br />
-`Original Question`: original text of the question <br />
-`Paraphrasing 1` : paraphrasing of the questions by annotator 1 <br />
-`Paraphrasing 2` : paraphrasing of the questions by annotator 2 <br />
-`SPARQL Query`: SPARQL query for the original question <br />
+**Title**: Embodied graph networks - learning graph-based models and policies for physical interaction
  
-### Test Data & Evaluation
+**Abstract**: Many tasks we care about in the physical environment can be represented as graphs, such as towers of blocks or even more general physical scenes. In this talk, I will describe our ongoing work to learn models and policies which enable artificial agents to build block towers, stabilize block towers with artificial "glue", and perform long-range predictions of complex 2D and 3D shapes in artificial physical environments.
 
-Test Data will be released on 30th August, 2019.
+### Ferran Alet, MIT<a name="ferran-alet"></a>
 
-The test file will be a tab separated file with following columns:
+**Title**: Graph Element Networks
 
-`ID`: question id <br />
-`Question`: a natural language question <br />
+**Abstract**: We explore the use of graph neural networks (GNNs) to model spatial processes in which there is no a priori graphical structure. Similar to finite element analysis, we assign nodes of a GNN to spatial locations and use a computational process defined on the graph to model the relationship between an initial function defined over a space and a resulting function in the same space. We use GNNs as a computational substrate, and show that the locations of the nodes in space as well as their connectivity can be optimized to focus on the most complex parts of the space. Moreover, this representational strategy allows the learned input-output relationship to generalize over the size of the underlying space and run the same model at different levels of precision, trading computation for accuracy. We demonstrate this method on a traditional PDE problem, a physical prediction problem from robotics, and learning to predict scene images from novel viewpoints.
 
-You will be required to produce the SPARQL query that can be used to answer the question from DBpedia corpus specified above.
+## L+R New Combinations
 
-You are required to submit the output produced by your system in a single tab separated file with three columns:
+### Masataro Asai, IBM<a name="masataro-asai"></a>
 
-`ID`: question id <br />
-`Question`: a natural language question <br />
-`Output SPARQL`: SPARQL query as produced by your system <br />
+### Lee Martie, IBM<a name="lee-martie"></a>
 
-Note that each line corresponds to one natural language question. Please make sure that there are no line-breaks in the SPARQL query.
+**Title**: Reflecting After Learning for Understanding
 
-The systems will be evaluated based on the accuracy of retrieved answers via the generated structured representations. Participants should report their train and test accuracies in their presentations/posters during the workshop.
-
-#### Technical Report
-
-You are also required to submit a brief description of your approach in the form of a technical report/arXiv paper. The paper should provide sufficient details for the readers to understand and replicate your approach. 
-
-### Deadline
-
-The deadline for submission of results is 10th September, 2019.
-
-The results will be announced during the challenge session in the workshop.
-
-### Contact
-
-Please email your submissions, and direct any questions to [sumitbhatia@in.ibm.com](mailto:sumitbhatia@in.ibm.com).
+**Abstract**: Today, image classification is a common way for systems to describe images. While neural network approaches to classification have seen great progress in reducing error rates, it is not clear what this means for a cognitive system needing to make sense of the multiple and competing labels from its own classifiers for image understanding. As a step to address this, we present a novel approach and framework using meta-reasoning and meta-operations to unify labels into higher-level knowledge for the cognitive system. Using our framework on images from ImageNet, we demonstrate systems capable of unifying 41% to 46% of labels and 67% to 75% of labels when these systems can explain their differences. Further, we demonstrate such systems in "the wild" by feeding live video images through one and show the system unifying 51% of labels and 69% of labels when the system can explain their differences. In a survey given to 24 participants, it was found that 87% of the unified labels made with our system describe their corresponding images.
 
 
-# Poster Session<a name="poster-session"></a>
+### Yunyao Li, IBM<a name="yunyao-li"></a>
 
-We invite all IBMers working on combinations of symbolic knowledge representation/reasoning and machine learning to send us posters to display at the workshop. The poster session is intended to act as a showcase of KR2ML work within IBM to the community at large. The idea of our poster session is to give an insight into the wide variety of work in this particular area done at IBM. The poster session is non-archival, and we welcome work that has been presented at other venues previously, etc. Please send your posters, as well as any questions, to [Veronika.Thost@ibm.com](mailto:veronika.thost@ibm.com).
+**Title**: Human-Machine Co-Creation with Deep Learning and Human-in-the-Loop
+
+**Abstract**: While the role of humans is increasingly recognized in machine learning community, representation of and interaction with models in current human-in-the-loop machine learning (HITL-ML) approaches are too low-level and far-removed from human's conceptual models. I will present ongoing work in my team to support human-machine co-creation with learning and human-in-the-loop techniques. In particular, I will focus on HEIDL, a system supports human-machine co-creation by exposing the machine-learned model through high-level, explainable linguistic expressions. In HEIDL, human's role is elevated from simply evaluating model predictions to interpreting and even updating the model logic directly by enabling interaction with rule predicates themselves. Raising the currency of interaction to such semantic levels calls for new interaction paradigms between humans and machines that result in improved productivity for model development process. Moreover, by involving humans in the process, the human-machine co-created models generalize better to unseen data as domain experts are able to instill their expertise by extrapolating from what has been learned by automated algorithms from few labelled data.
 
 
 
-# Workshop Organizers
 
-- [Veronika Thost](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Veronika.Thost)
-- [Kartik Talamadupula](http://www.ktalamad.com/)
-- [Sumit Bhatia](http://sumitbhatia.net/)
-- Hima Karanam
+## L+R Over Knowledge Graphs
+
+### Alfio Gliozzo, IBM<a name="alfio-gliozzo"></a>
+
+### Lingfei Wu, IBM<a name="lingfei-wu"></a>
+
+**Title**: Exploiting Graph Neural Networks with Context Information for RDF- to-Text Generation
+
+**Abstract**: The task of RDF-to-Text generation is to generate a corresponding descriptive text given a set of RDF triplets. Most of the previous approaches either cast this task as a sequence- to-sequence problem or employ graph-based encoders for modeling RDF triplets and decode a text sequence. However, none of these methods can explicitly model both global and local structure information within and between the triplets. Furthermore, they did not exploit the target text as an important additional context for modeling complex RDF triplets. To address these issues, we propose to jointly learn local information and global structure information via combining graph encoder and graph-based triple encoder for the input triplets. Furthermore, we also exploit Seq2Seq-based auto-encoder to leverage target text as the context to supervise the combination of input encoders. Experimental results on the WebNLG dataset show that our proposed model outperforms the state-of-the-art baselines.
+
+# KR2ML Poster Session<a name="poster-session"></a>
+
+## List of Accepted Posters
+
+List TBA
+
+
 
 <!-- <div class="posts-list">
   {% for post in paginator.posts %}
