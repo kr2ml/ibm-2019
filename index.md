@@ -60,7 +60,7 @@ You can find a [list of accepted posters here](schedule.md#poster-session).
 
 
 
-# Workshop Organizers
+# Workshop Organizers<a name="organizers"></a>
 
 - [Veronika Thost](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Veronika.Thost)
 - [Kartik Talamadupula](http://www.ktalamad.com/)
