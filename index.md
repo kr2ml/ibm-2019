@@ -22,19 +22,19 @@ Please visit the [detailed schedule](schedule.md) for full details of all the ta
 | Event                                          | Time |
 |------------------------------------------------|----------|
 | Workshop Welcome  |   |
-| (Keynote) Title TBD - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 0900 - 0945  |
+| (Keynote) [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) (UMass Amherst)    | 0900 - 0945  |
 | L+R Graph Representations                                | 0945 - 1030  |
 | - [Brandy Freitas](https://www.linkedin.com/in/brandyalexandrafreitas) (Pitney Bowes)                |          |
 | - [Kelsey Allen](https://cbmm.mit.edu/about/people/allen) (MIT)                           |          |
 | - [Ferran Alet](http://web.mit.edu/alet/www/) (MIT)                             |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1030 - 1100  |
-| (Keynote) Title TBD - [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 1100 - 1145  |
+| (Keynote) [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 1100 - 1145  |
 | L+R New Combinations                       | 1145 - 1230 |
 | - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                       |           |
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
 | - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
 | Lunch                                          | 1230 - 1400  |
-| (Keynote) Title TBD  - [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400 - 1445  |
+| (Keynote) [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
