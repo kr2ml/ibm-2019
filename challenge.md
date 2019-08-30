@@ -41,11 +41,13 @@ There are 5 tab separated columns in the file:
 `Paraphrasing 2` : paraphrasing of the questions by annotator 2 <br />
 `SPARQL Query`: SPARQL query for the original question <br />
  
-### Test Data & Evaluation
+### Test Data & Evaluation<a name="challenge-test-data"></a>
 
-Test Data will be released on 30th August, 2019.
+<!-- Test Data will be released on 30th August, 2019. -->
 
-The test file will be a tab separated file with following columns:
+The test data is [available for download now](https://kr2ml.github.io/ibm-2019/qa-challenge/challenge_test.tsv).
+
+The test file is a tab separated file with the following columns:
 
 `ID`: question id <br />
 `Question`: a natural language question <br />
