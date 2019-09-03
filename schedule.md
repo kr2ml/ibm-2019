@@ -31,6 +31,7 @@ use-site-title: true
 | (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
 | - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
+| - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay) | | 
 | - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
 | [QA Challenge Session](challenge.md)        | 1600 - 1700  |
@@ -104,6 +105,9 @@ Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week
 ## L+R Over Knowledge Graphs
 
 ### Alfio Gliozzo, IBM<a name="alfio-gliozzo"></a>
+
+### Ganesh Ramakrishnan, IIT Bombay<a name="ganesh-ramakrishnan"></a>
+
 
 ### Lingfei Wu, IBM<a name="lingfei-wu"></a>
 

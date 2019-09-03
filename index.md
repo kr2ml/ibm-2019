@@ -37,6 +37,7 @@ Please visit the [detailed schedule](schedule.md) for full details of all the ta
 | (Keynote) [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
+| - [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) (IIT Bombay) |  |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
 | [QA Challenge Session](challenge.md)        | 1600 - 1700  |
