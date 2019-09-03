@@ -26,7 +26,7 @@ use-site-title: true
 | L+R New Combinations                       | 1145 - 1230 |
 | - [Masataro Asai](#masataro-asai) (IBM)                       |           |
 | - [Lee Martie](#lee-martie) (IBM)                                          |         |
-| - [Yunyao Li](#yunyao-li) (IBM) | | 
+| - [Lucian Popa](#lucian-popa) (IBM) | | 
 | Lunch                                          | 1230 - 1400  |
 | (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
@@ -92,7 +92,7 @@ Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week
 **Abstract**: Today, image classification is a common way for systems to describe images. While neural network approaches to classification have seen great progress in reducing error rates, it is not clear what this means for a cognitive system needing to make sense of the multiple and competing labels from its own classifiers for image understanding. As a step to address this, we present a novel approach and framework using meta-reasoning and meta-operations to unify labels into higher-level knowledge for the cognitive system. Using our framework on images from ImageNet, we demonstrate systems capable of unifying 41% to 46% of labels and 67% to 75% of labels when these systems can explain their differences. Further, we demonstrate such systems in "the wild" by feeding live video images through one and show the system unifying 51% of labels and 69% of labels when the system can explain their differences. In a survey given to 24 participants, it was found that 87% of the unified labels made with our system describe their corresponding images.
 
 
-### Yunyao Li, IBM<a name="yunyao-li"></a>
+### Lucian Popa, IBM<a name="lucian-popa"></a>
 
 **Title**: Human-Machine Co-Creation with Deep Learning and Human-in-the-Loop
 

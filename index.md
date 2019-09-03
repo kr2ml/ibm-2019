@@ -32,7 +32,7 @@ Please visit the [detailed schedule](schedule.md) for full details of all the ta
 | L+R New Combinations                       | 1145 - 1230 |
 | - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                       |           |
 | - [Lee Martie](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lee.Martie) (IBM)                                          |         |
-| - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) (IBM) | | 
+| - [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa) (IBM) | | 
 | Lunch                                          | 1230 - 1400  |
 | (Keynote) [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 1400 - 1445  |
 | L+R Over Knowledge Graphs | 1445 - 1530 |
