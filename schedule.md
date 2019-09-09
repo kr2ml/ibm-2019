@@ -58,6 +58,18 @@ Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week
 
 **Title**: Fifty Years of Using Knowledge Graphs for Language Understanding
 
+**Abstract**: There is a long history of using structured knowledge of one kind or another to support AI tasks and especially ones involving natural language understanding.  Over the years the names and details of changed, from
+semantic networks to frames to logic programs to databases to expert
+systems to knowledge bases to semantic web and currently to knowledge
+graphs.  But a common tread is that an organized representation of
+knowledge that can be queried and evolved is a core component of many
+intelligent systems. Current research is exploiting today's two big
+technology trends: the ready availability of enormous amounts of
+content in the form of text, data, images and videos and powerful new
+machine learning technologies that can take advantage of it.  After a
+brief review of this history, I'll give some examples of combining KR
+and ML from our recent work.
+
 
 # Topical Sessions<a name="topical-sessions"></a>
 
