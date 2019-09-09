@@ -16,7 +16,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 
 # Tentative Schedule
 
-Please visit the [detailed schedule](schedule.md) for full details of all the talks and sessions. 
+**<span style="color:red">Please visit the [detailed schedule](schedule.md) for full details of all the talks and sessions.</span>**
 
 
 | Event                                          | Time |
