@@ -120,6 +120,9 @@ and ML from our recent work.
 
 ### Ganesh Ramakrishnan, IIT Bombay<a name="ganesh-ramakrishnan"></a>
 
+**Title**: Knowledge Understanding and Representation for Automatic
+Question Generation
+
 
 ### Lingfei Wu, IBM<a name="lingfei-wu"></a>
 
