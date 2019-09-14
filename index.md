@@ -36,13 +36,13 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | - [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa) (IBM) | | 
 | Lunch                                          | 12:30 - 14:00  |
 | (Keynote) [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 14:00 - 14:45  |
-| L+R Over Graphs | 14:45 - 15:30 |
+| L+R Over Graphs | 14:45 - 15:45 |
 | - [Alfio Gliozzo](https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo) (IBM)  |   |
 | - [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) (IIT Bombay) |  |
 | - [Lingfei Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-wuli) (IBM)                                          |          |
 | - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM)                                          |          |
-| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:30 - 16:00  |
-| [QA Challenge Session](challenge.md)        | 16:00 - 17:00  |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:45 - 16:15  |
+| [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - Challenge Participants  | |
 | Workshop Closing  |   |
