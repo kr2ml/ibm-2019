@@ -17,25 +17,26 @@ use-site-title: true
 | Event                                          | Time |
 |------------------------------------------------|----------|
 | Workshop Welcome  |   |
-| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst)    | 0900 - 0945  |
-| L+R Graph Representations                                | 0945 - 1030  |
+| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst)    | 09:00 - 09:45  |
+| L+R Graph Representations                                | 09:45 - 10:30  |
 | - [Brandy Freitas](#brandy-freitas) (Pitney Bowes)                |          |
 | - [Kelsey Allen](#kelsey-allen) (MIT)                           |          |
 | - [Ferran Alet](#ferran-alet) (MIT)                             |          |
-| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1030 - 1100  |
-| (Keynote) [Milind Tambe](#milind-tambe) (Harvard)             | 1100 - 1145  |
-| L+R New Combinations                       | 1145 - 1230 |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 10:30 - 11:00  |
+| (Keynote) [Milind Tambe](#milind-tambe) (Harvard)             | 11:00 - 11:45  |
+| L+R New Combinations                       | 11:45 - 12:30 |
 | - [Masataro Asai](#masataro-asai) (IBM)                       |           |
 | - [Lee Martie](#lee-martie) (IBM)                                          |         |
 | - [Lucian Popa](#lucian-popa) (IBM) | | 
-| Lunch                                          | 1230 - 1400  |
-| (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 1400 - 1445  |
-| L+R Over Knowledge Graphs | 1445 - 1530 |
+| Lunch                                          | 12:30 - 14:00  |
+| (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 14:00 - 14:45  |
+| L+R Over Knowledge Graphs | 14:45 - 15:30 |
 | - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
 | - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay) | | 
 | - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
-| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 1530 - 1600  |
-| [QA Challenge Session](challenge.md)        | 1600 - 1700  |
+| - [Achille Fokoue](#achille-fokoue) (IBM)                                          |          |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:45 - 16:15  |
+| [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
 | - Sumit Bhatia (IBM) | |
 | - Challenge Participants  | |
 | Workshop Closing  |   |
