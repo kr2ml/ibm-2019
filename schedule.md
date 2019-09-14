@@ -112,14 +112,14 @@ and ML from our recent work.
 
 ### Lucian Popa, IBM<a name="lucian-popa"></a>
 
-*Title*: Human-Machine Co-Creation with Deep Learning and Human-in-the-Loop
+*Title*: Human-Machine Co-Creation of Explainable Models
 
 **Abstract**: While the role of humans is increasingly recognized in machine learning community, representation of and interaction with models in current human-in-the-loop machine learning (HITL-ML) approaches are too low-level and far-removed from human's conceptual models. I will present ongoing work in my team to support human-machine co-creation with learning and human-in-the-loop techniques. In particular, I will focus on HEIDL, a system supports human-machine co-creation by exposing the machine-learned model through high-level, explainable linguistic expressions. In HEIDL, human's role is elevated from simply evaluating model predictions to interpreting and even updating the model logic directly by enabling interaction with rule predicates themselves. Raising the currency of interaction to such semantic levels calls for new interaction paradigms between humans and machines that result in improved productivity for model development process. Moreover, by involving humans in the process, the human-machine co-created models generalize better to unseen data as domain experts are able to instill their expertise by extrapolating from what has been learned by automated algorithms from few labelled data.
 
 
 
 
-## L+R Over Knowledge Graphs
+## L+R Over Graphs
 
 ### Alfio Gliozzo, IBM<a name="alfio-gliozzo"></a>
 
@@ -135,15 +135,21 @@ Question Generation
 
 **Abstract**: The task of RDF-to-Text generation is to generate a corresponding descriptive text given a set of RDF triplets. Most of the previous approaches either cast this task as a sequence- to-sequence problem or employ graph-based encoders for modeling RDF triplets and decode a text sequence. However, none of these methods can explicitly model both global and local structure information within and between the triplets. Furthermore, they did not exploit the target text as an important additional context for modeling complex RDF triplets. To address these issues, we propose to jointly learn local information and global structure information via combining graph encoder and graph-based triple encoder for the input triplets. Furthermore, we also exploit Seq2Seq-based auto-encoder to leverage target text as the context to supervise the combination of input encoders. Experimental results on the WebNLG dataset show that our proposed model outperforms the state-of-the-art baselines.
 
-# KR2ML Poster Session<a name="poster-session"></a>
+### Achille Fokoue, IBM<a name="achille-fokoue"></a>
+
+*Title*: TRAIL: A Deep Reinforcement Learning Approach to First-Order Logic Reasoning
+
+**Abstract**: Traditional first-order logic (FOL) reasoning systems usually rely upon manual heuristics to aid in their search for proofs or solutions.  We propose TRAIL: a flexible, deep reinforcement learning based FOL reasoner that circumvents the need for customized heuristics by learning to improve its search and decision-making process. TRAIL relies upon a traditional reasoner and a learning agent that are agnostic of one another, an architecture that allows for developing neural reasoners for any logic. We demonstrate that TRAIL is comparable to state of the art FOL reasoners.
+
+
+
+
+
+<!-- # KR2ML Poster Session<a name="poster-session"></a>
 
 ## List of Accepted Posters
 
-List TBA
-
-
-
-<!-- <div class="posts-list">
+List TBA<div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
