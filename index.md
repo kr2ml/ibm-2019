@@ -45,6 +45,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
 | - [Sumit Bhatia](https://researcher.watson.ibm.com/researcher/view.php?person=in-sumitbhatia) (IBM) | |
 | - Challenge Participants  | |
+| - [Tengfei Ma](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Tengfei.Ma1) (IBM) | |
 | Workshop Closing  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
