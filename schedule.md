@@ -39,6 +39,7 @@ use-site-title: true
 | [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
 | - Sumit Bhatia (IBM) | |
 | - Challenge Participants  | |
+| - [Tengfei Ma](#tengfei-ma) (IBM) | |
 | Workshop Closing  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
@@ -141,6 +142,12 @@ Question Generation
 *Title*: TRAIL: A Deep Reinforcement Learning Approach to First-Order Logic Reasoning
 
 **Abstract**: Traditional first-order logic (FOL) reasoning systems usually rely upon manual heuristics to aid in their search for proofs or solutions.  We propose TRAIL: a flexible, deep reinforcement learning based FOL reasoner that circumvents the need for customized heuristics by learning to improve its search and decision-making process. TRAIL relies upon a traditional reasoner and a learning agent that are agnostic of one another, an architecture that allows for developing neural reasoners for any logic. We demonstrate that TRAIL is comparable to state of the art FOL reasoners.
+
+### Tengfei Ma, IBM<a name="tengfei-ma"></a>
+
+*Title*: Graph Enhanced Cross-Domain Text-to-SQL Generation
+
+**Abstract**: Semantic parsing is a fundamental problem in natural language understanding, as it involves the mapping of natural language to structured forms such as executable queries or logic-like knowledge representations. Existing deep learning approaches for semantic parsing have shown promise on a variety of  benchmark data sets, particularly on text-to-SQL parsing. However, most text-to-SQL parsers do not generalize to unseen data sets in different domains. In this paper, we propose a new cross-domain learning scheme to perform text-to-SQL translation and demonstrate its use on Spider, a large-scale cross-domain text-to-SQL data set. We improve upon the SyntaxSQLNet, by constructing a graph of column names for all databases and using graph neural networks to compute their embeddings.  The resulting embeddings offer better cross-domain representations and SQL queries, as evidenced by substantial improvement on the Spider data set.
 
 
 
