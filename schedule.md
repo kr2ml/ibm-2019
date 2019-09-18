@@ -30,7 +30,7 @@ use-site-title: true
 | - [Lucian Popa](#lucian-popa) (IBM) | | 
 | Lunch                                          | 12:30 - 14:00  |
 | (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 14:00 - 14:45  |
-| L+R Over Knowledge Graphs | 14:45 - 15:30 |
+| L+R Over Knowledge Graphs | 14:45 - 15:45 |
 | - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
 | - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay) | | 
 | - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
@@ -124,6 +124,8 @@ and ML from our recent work.
 ## L+R Over Graphs
 
 ### Alfio Gliozzo, IBM<a name="alfio-gliozzo"></a>
+
+*Title*: Knowledge Induction @ IBM Research AI
 
 ### Ganesh Ramakrishnan, IIT Bombay<a name="ganesh-ramakrishnan"></a>
 
