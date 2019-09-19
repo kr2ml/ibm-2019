@@ -30,11 +30,11 @@ use-site-title: true
 | - [Lucian Popa](#lucian-popa) (IBM) | | 
 | Lunch                                          | 12:30 - 14:00  |
 | (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 14:00 - 14:45  |
-| L+R Over Knowledge Graphs | 14:45 - 15:45 |
+| L+R Over Knowledge Graphs | 14:45 - 15:30 |
 | - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
 | - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay) | | 
 | - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
-| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:45 - 16:15  |
+| Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:30 - 16:15  |
 | [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
 | - Sumit Bhatia (IBM) | |
 | - Challenge Participants  | |
