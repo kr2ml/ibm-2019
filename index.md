@@ -32,7 +32,7 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 | (Keynote) [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe) (Harvard)             | 11:00 - 11:45  |
 | L+R New Combinations                       | 11:45 - 12:30 |
 | - [Masataro Asai](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Masataro.Asai) (IBM)                       |           |
-| - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) | | 
+| - [Achille Fokoue](https://researcher.watson.ibm.com/researcher/view.php?person=us-achille) (IBM) | | 
 | - [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa) (IBM) | | 
 | Lunch                                          | 12:30 - 14:00  |
 | (Keynote) [Tim Finin](https://www.csee.umbc.edu/~finin/) (UMBC)                     | 14:00 - 14:45  |
