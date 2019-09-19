@@ -19,7 +19,6 @@ use-site-title: true
 | Workshop Welcome  |   |
 | (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst)    | 09:00 - 09:45  |
 | L+R Graph Representations                                | 09:45 - 10:30  |
-<!-- | - [Brandy Freitas](#brandy-freitas) (Pitney Bowes)                |          | -->
 | - [Kelsey Allen](#kelsey-allen) (MIT)                           |          |
 | - [Ferran Alet](#ferran-alet) (MIT)                             |          |
 | - [Lee Martie](#lee-martie) (IBM) | |
@@ -27,7 +26,6 @@ use-site-title: true
 | (Keynote) [Milind Tambe](#milind-tambe) (Harvard)             | 11:00 - 11:45  |
 | L+R New Combinations                       | 11:45 - 12:30 |
 | - [Masataro Asai](#masataro-asai) (IBM)                       |           |
-<!-- | - [Lee Martie](#lee-martie) (IBM)                                          |         | -->
 | - [Achille Fokoue](#achille-fokoue) (IBM) | |
 | - [Lucian Popa](#lucian-popa) (IBM) | | 
 | Lunch                                          | 12:30 - 14:00  |
@@ -36,7 +34,6 @@ use-site-title: true
 | - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
 | - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay) | | 
 | - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
-| - [Achille Fokoue](#achille-fokoue) (IBM)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:45 - 16:15  |
 | [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
 | - Sumit Bhatia (IBM) | |
