@@ -19,14 +19,16 @@ use-site-title: true
 | Workshop Welcome  |   |
 | (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst)    | 09:00 - 09:45  |
 | L+R Graph Representations                                | 09:45 - 10:30  |
-| - [Brandy Freitas](#brandy-freitas) (Pitney Bowes)                |          |
+<!-- | - [Brandy Freitas](#brandy-freitas) (Pitney Bowes)                |          | -->
 | - [Kelsey Allen](#kelsey-allen) (MIT)                           |          |
 | - [Ferran Alet](#ferran-alet) (MIT)                             |          |
+| - [Lee Martie](#lee-martie) (IBM) | |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 10:30 - 11:00  |
 | (Keynote) [Milind Tambe](#milind-tambe) (Harvard)             | 11:00 - 11:45  |
 | L+R New Combinations                       | 11:45 - 12:30 |
 | - [Masataro Asai](#masataro-asai) (IBM)                       |           |
-| - [Lee Martie](#lee-martie) (IBM)                                          |         |
+<!-- | - [Lee Martie](#lee-martie) (IBM)                                          |         | -->
+| - [Achille Fokoue](#achille-fokoue) (IBM) | |
 | - [Lucian Popa](#lucian-popa) (IBM) | | 
 | Lunch                                          | 12:30 - 14:00  |
 | (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 14:00 - 14:45  |
