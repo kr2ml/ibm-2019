@@ -11,6 +11,10 @@ use-site-title: true
 
 <hr>
 
+# Workshop Report
+
+The [workshop report](/docs/kr2ml2019-report.pdf) is now available for download!
+
 # Detailed Schedule
 
 
