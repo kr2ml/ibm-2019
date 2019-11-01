@@ -19,11 +19,11 @@ Machine learning (ML) has seen a tremendous amount of recent success, and has be
 
 The [workshop report](/docs/kr2ml2019-report.pdf) is now available for download!
 
-# Tentative Schedule
+# Schedule
 
-<span style="color:red">Please visit the [detailed schedule](schedule.md) for full details of all the talks and sessions.</span>
+<span style="color:red">Please visit the [detailed schedule](schedule.md) for full details of all the talks and sessions, including talk videos and slides (where available).</span>
 
-
+<!-- 
 | Event                                          | Time |
 |------------------------------------------------|----------|
 | Workshop Welcome  |   |
@@ -51,7 +51,7 @@ The [workshop report](/docs/kr2ml2019-report.pdf) is now available for download!
 | - [Tengfei Ma](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Tengfei.Ma1) (IBM) | |
 | Workshop Closing  |   |
 
-Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
+Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program. -->
 
 # QA Challenge 
 
@@ -59,12 +59,12 @@ Please [click here](challenge.md) for full details of the KR2ML 2019 QA Challeng
 
 
 
-# Poster Session<a name="poster-session"></a>
+<!-- # Poster Session<a name="poster-session"></a>
 
 We invite all IBMers working on combinations of symbolic knowledge representation/reasoning and machine learning to send us posters to display at the workshop. The poster session is intended to act as a showcase of KR2ML work within IBM to the community at large. The idea of our poster session is to give an insight into the wide variety of work in this particular area done at IBM. The poster session is non-archival, and we welcome work that has been presented at other venues previously, etc. Please send your posters, as well as any questions, to [Veronika.Thost@ibm.com](mailto:veronika.thost@ibm.com).
 
 You can find a [list of accepted posters here](schedule.md#poster-session).
-
+ -->
 
 
 # Workshop Organizers<a name="organizers"></a>

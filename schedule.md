@@ -7,7 +7,7 @@ use-site-title: true
 ## Date: 9/19/19, 9 am to 5 pm
 ## Location: [MIT Samberg Conference Center](https://whereis.mit.edu/?go=E52)
 ## Room: *Salon M* (7th Floor)
-## Go to [Registration](https://kr2ml.eventbrite.com)
+<!-- ## Go to [Registration](https://kr2ml.eventbrite.com) -->
 
 <hr>
 
@@ -19,30 +19,30 @@ The [workshop report](/docs/kr2ml2019-report.pdf) is now available for download!
 
 
 | Event                                          | Time |
-|------------------------------------------------|----------|
-| Workshop Welcome  |   |
-| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst)    | 09:00 - 09:45  |
-| L+R Graph Representations                                | 09:45 - 10:30  |
-| - [Kelsey Allen](#kelsey-allen) (MIT)                           |          |
-| - [Ferran Alet](#ferran-alet) (MIT)                             |          |
-| - [Lee Martie](#lee-martie) (IBM) | |
+|------------------------------------------------| ---- |
+| (Workshop Welcome) [Kartik Talamadupula](http://www.ktalamad.com/), [video](https://ibm.box.com/s/8tazg5k94u3oke4worpamwr0ejwyojhy)  |   |
+| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst), [video](https://ibm.box.com/s/hge8qz6sqrzeq62e8o5xwkx5pfeuq0w9) | 09:00 - 09:45  |
+| L+R Graph Representations                                 | 09:45 - 10:30  |
+| - [Kelsey Allen](#kelsey-allen) (MIT), [video](https://ibm.box.com/s/4w2iry7fuxwsx7co34n4rs9vjpsvz5ms)               |          |
+| - [Ferran Alet](#ferran-alet), (MIT), [slides](https://ibm.box.com/s/o8vi897qhbo8j2uaxn4wa6pgbywldw1k), [video](https://ibm.box.com/s/briwzomljudaeojlrt9hkobsjyy9vf11)                             |          |
+| - [Lee Martie](#lee-martie) (IBM), [slides](https://ibm.box.com/s/tutbnukc96ufh4l9rcbpop1flt80xu4q), [video](https://ibm.box.com/s/ielihhnc8a1j074ahfzsugc5miwffjkq) | |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 10:30 - 11:00  |
-| (Keynote) [Milind Tambe](#milind-tambe) (Harvard)             | 11:00 - 11:45  |
+| (Keynote) [Milind Tambe](#milind-tambe) (Harvard), [slides](), [video](https://ibm.box.com/s/s592fnfm03rjwhxcs6dt8k9usxm3eof7)             | 11:00 - 11:45  |
 | L+R New Combinations                       | 11:45 - 12:30 |
-| - [Masataro Asai](#masataro-asai) (IBM)                       |           |
-| - [Achille Fokoue](#achille-fokoue) (IBM) | |
-| - [Lucian Popa](#lucian-popa) (IBM) | | 
+| - [Masataro Asai](#masataro-asai) (IBM),  [video](https://ibm.box.com/s/wiv41s0c69cs036ddunyt85lg902x2g1)                       |           |
+| - [Achille Fokoue](#achille-fokoue) (IBM),  [video](https://ibm.box.com/s/yxkbcshux0ylp2acz4f3j5ppic4t0dfe) | |
+| - [Lucian Popa](#lucian-popa) (IBM), [slides](https://ibm.box.com/s/xbmw2z19yjglvcyw88qh11jrda5r6n0m), [video](https://ibm.box.com/s/vnvaacghfxnfjiorb9ybfpiu7bjma4oi) | | 
 | Lunch                                          | 12:30 - 14:00  |
-| (Keynote) [Tim Finin](#tim-finin) (UMBC)                     | 14:00 - 14:45  |
+| (Keynote) [Tim Finin](#tim-finin) (UMBC), [slides](https://ibm.box.com/s/6eqyf2glr4j2acup1a0g1jvt6sys27hb), [video](https://ibm.box.com/s/279uwwin8b4k4tirpuisq8glwbx0316h)                     | 14:00 - 14:45  |
 | L+R Over Knowledge Graphs | 14:45 - 15:30 |
-| - [Alfio Gliozzo](#alfio-gliozzo) (IBM)  |   |
-| - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay) | | 
-| - [Lingfei Wu](#lingfei-wu) (IBM)                                          |          |
+| - [Alfio Gliozzo](#alfio-gliozzo) (IBM), [slides](https://ibm.box.com/s/fsxv96k429hss1b4ng9xv4gq1vkgzakr), [video](https://ibm.box.com/s/fwqftizrwvbln056b2xhkv7i85602bvt)  |   |
+| - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay),  [video](https://ibm.box.com/s/4kw5by6rpo02nhdhvjegfhg13fvi8kba) | | 
+| - [Lingfei Wu](#lingfei-wu) (IBM), [slides](https://ibm.box.com/s/p2nextmqfwbh4z6qg38alga11bdwffas), [video](https://ibm.box.com/s/ju2vyh4hmfqwkowxuxkjd3fd24lte47b)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:30 - 16:15  |
 | [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
-| - Sumit Bhatia (IBM) | |
+| - Sumit Bhatia (IBM),  [video](https://ibm.box.com/s/nva0c2omvwxrg2mzbq8m7pomy7ei2zbz) | |
 | - Challenge Participants  | |
-| - [Tengfei Ma](#tengfei-ma) (IBM) | |
+| - [Tengfei Ma](#tengfei-ma) (IBM),  [video](https://ibm.box.com/s/nfz61k2wsfk66kh9gf2oi349ud6tfgjh) | |
 | Workshop Closing  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
