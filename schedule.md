@@ -36,7 +36,7 @@ Note: Apparantly there are issues with the links. Please [access the video folde
 | Lunch                                          | 12:30 - 14:00  |
 | (Keynote) [Tim Finin](#tim-finin) (UMBC), [slides](https://ibm.box.com/s/6eqyf2glr4j2acup1a0g1jvt6sys27hb), [video](https://ibm.box.com/s/dbvc72ekzdbsxn7ccuatwd7w268qkwof)                     | 14:00 - 14:45  |
 | L+R Over Knowledge Graphs | 14:45 - 15:30 |
-| - [Alfio Gliozzo](#alfio-gliozzo) (IBM), [slides](https://ibm.box.com/s/fsxv96k429hss1b4ng9xv4gq1vkgzakr), [video](https://ibm.box.com/s/p34wua6vr1xuupki6xc6dbik1dkse4ot)  |   |
+| - [Alfio Gliozzo](#alfio-gliozzo) (IBM), [slides](https://ibm.box.com/s/b7999gwsmosdzdrmgcr888xbwnov1huu), [video](https://ibm.box.com/s/p34wua6vr1xuupki6xc6dbik1dkse4ot)  |   |
 | - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay),  [video](https://ibm.box.com/s/e53iexmrf979j12icy6g0zhrs8lftjq4) | | 
 | - [Lingfei Wu](#lingfei-wu) (IBM), [slides](https://ibm.box.com/s/p2nextmqfwbh4z6qg38alga11bdwffas), [video](https://ibm.box.com/s/kqk4zgazyx4g45qtvssgr0u1sg7duq8k)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:30 - 16:15  |
