@@ -17,6 +17,7 @@ The [workshop report](/docs/kr2ml2019-report.pdf) is now available for download!
 
 # Detailed Schedule
 
+Apparantly there are issues with the video links. Please [access the folder directly](https://ibm.box.com/v/kr2ml-ibm-19-videos) if you are not successful.
 
 | Event                                          | Time |
 |------------------------------------------------| ---- |
