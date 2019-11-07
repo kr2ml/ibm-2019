@@ -25,7 +25,7 @@ Apparantly there are issues with the video links. Please [access the folder dire
 | (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst), [video](https://ibm.box.com/s/hge8qz6sqrzeq62e8o5xwkx5pfeuq0w9) | 09:00 - 09:45  |
 | L+R Graph Representations                                 | 09:45 - 10:30  |
 | - [Kelsey Allen](#kelsey-allen) (MIT), [video](https://ibm.box.com/s/4w2iry7fuxwsx7co34n4rs9vjpsvz5ms)               |          |
-| - [Ferran Alet](#ferran-alet), (MIT), [slides](https://ibm.box.com/s/o8vi897qhbo8j2uaxn4wa6pgbywldw1k), [video](https://ibm.box.com/s/briwzomljudaeojlrt9hkobsjyy9vf11)                             |          |
+| - [Ferran Alet](#ferran-alet), (MIT), [slides](https://ibm.box.com/v/kr2ml-ibm-19-videos/3168_MIT_IBM_Conference_2019_09_19_KnowledgeRepresentationAndReasoning _LR_GraphRepresentations_FerranAlet.mp4), [video](https://ibm.box.com/s/briwzomljudaeojlrt9hkobsjyy9vf11)                             |          |
 | - [Lee Martie](#lee-martie) (IBM), [slides](https://ibm.box.com/s/tutbnukc96ufh4l9rcbpop1flt80xu4q), [video](https://ibm.box.com/s/ielihhnc8a1j074ahfzsugc5miwffjkq) | |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 10:30 - 11:00  |
 | (Keynote) [Milind Tambe](#milind-tambe) (Harvard), [slides](), [video](https://ibm.box.com/s/s592fnfm03rjwhxcs6dt8k9usxm3eof7)             | 11:00 - 11:45  |
