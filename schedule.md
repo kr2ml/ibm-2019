@@ -21,8 +21,8 @@ Note: Apparantly there are issues with the links. Please [access the video folde
 
 | Event                                          | Time |
 |------------------------------------------------| ---- |
-| (Workshop Welcome) [Kartik Talamadupula](http://www.ktalamad.com/), [video](https://ibm.box.com/s/8tazg5k94u3oke4worpamwr0ejwyojhy)  |   |
-| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst), [video](https://ibm.box.com/s/4f50m0lifwied1xb806yghsj5qrf70si) | 09:00 - 09:45  |
+| (Workshop Welcome) [Kartik Talamadupula](http://www.ktalamad.com/), [video](https://ibm.box.com/s/b7zu8yl08355a6kk1p3ndub3xkjeh23s)  |   |
+| (Keynote) [Andrew McCallum](#andrew-mccallum) (UMass Amherst), [video](https://ibm.box.com/s/19bhb6aogq9yx21eht6lbyndvty6h4e6) | 09:00 - 09:45  |
 | L+R Graph Representations                                 | 09:45 - 10:30  |
 | - [Kelsey Allen](#kelsey-allen) (MIT), [video](https://ibm.box.com/s/89rsnayku05dvr6yw46002bsb9y23wwi)               |          |
 | - [Ferran Alet](#ferran-alet), (MIT), [slides](https://ibm.box.com/s/o8vi897qhbo8j2uaxn4wa6pgbywldw1k), [video](https://ibm.box.com/s/e9uv4sjpucucuayxmvac52bmy8ssk11s)                          |          |
@@ -30,20 +30,20 @@ Note: Apparantly there are issues with the links. Please [access the video folde
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 10:30 - 11:00  |
 | (Keynote) [Milind Tambe](#milind-tambe) (Harvard), [slides](), [video](https://ibm.box.com/s/8tyt82t9rjjoakgc6dxn1j75i0esfm0g)             | 11:00 - 11:45  |
 | L+R New Combinations                       | 11:45 - 12:30 |
-| - [Masataro Asai](#masataro-asai) (IBM),  [video](https://ibm.box.com/s/wiv41s0c69cs036ddunyt85lg902x2g1)                       |           |
+| - [Masataro Asai](#masataro-asai) (IBM),  [video](https://ibm.box.com/s/2hneackxcxlttbyn5i54l10yb1yik5bn)                       |           |
 | - [Achille Fokoue](#achille-fokoue) (IBM),  [video](https://ibm.box.com/s/3i9sq4ozil7m83ah13q48mgel75xijn3) | |
-| - [Lucian Popa](#lucian-popa) (IBM), [slides](https://ibm.box.com/s/xbmw2z19yjglvcyw88qh11jrda5r6n0m), [video](https://ibm.box.com/s/vnvaacghfxnfjiorb9ybfpiu7bjma4oi) | | 
+| - [Lucian Popa](#lucian-popa) (IBM), [slides](https://ibm.box.com/s/xbmw2z19yjglvcyw88qh11jrda5r6n0m), [video](https://ibm.box.com/s/iao0bn0csq34q4qt4rhyp039x7xgbew6) | | 
 | Lunch                                          | 12:30 - 14:00  |
-| (Keynote) [Tim Finin](#tim-finin) (UMBC), [slides](https://ibm.box.com/s/6eqyf2glr4j2acup1a0g1jvt6sys27hb), [video](https://ibm.box.com/s/279uwwin8b4k4tirpuisq8glwbx0316h)                     | 14:00 - 14:45  |
+| (Keynote) [Tim Finin](#tim-finin) (UMBC), [slides](https://ibm.box.com/s/6eqyf2glr4j2acup1a0g1jvt6sys27hb), [video](https://ibm.box.com/s/dbvc72ekzdbsxn7ccuatwd7w268qkwof)                     | 14:00 - 14:45  |
 | L+R Over Knowledge Graphs | 14:45 - 15:30 |
 | - [Alfio Gliozzo](#alfio-gliozzo) (IBM), [slides](https://ibm.box.com/s/fsxv96k429hss1b4ng9xv4gq1vkgzakr), [video](https://ibm.box.com/s/p34wua6vr1xuupki6xc6dbik1dkse4ot)  |   |
-| - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay),  [video](https://ibm.box.com/s/4kw5by6rpo02nhdhvjegfhg13fvi8kba) | | 
-| - [Lingfei Wu](#lingfei-wu) (IBM), [slides](https://ibm.box.com/s/p2nextmqfwbh4z6qg38alga11bdwffas), [video](https://ibm.box.com/s/ju2vyh4hmfqwkowxuxkjd3fd24lte47b)                                          |          |
+| - [Ganesh Ramakrishnan](#ganesh-ramakrishnan) (IIT Bombay),  [video](https://ibm.box.com/s/e53iexmrf979j12icy6g0zhrs8lftjq4) | | 
+| - [Lingfei Wu](#lingfei-wu) (IBM), [slides](https://ibm.box.com/s/p2nextmqfwbh4z6qg38alga11bdwffas), [video](https://ibm.box.com/s/kqk4zgazyx4g45qtvssgr0u1sg7duq8k)                                          |          |
 | Coffee + [KR2ML@IBM Posters](#poster-session)                     | 15:30 - 16:15  |
 | [QA Challenge Session](challenge.md)        | 16:15 - 17:00  |
-| - Sumit Bhatia (IBM),  [video](https://ibm.box.com/s/nva0c2omvwxrg2mzbq8m7pomy7ei2zbz) | |
+| - Sumit Bhatia (IBM),  [video](https://ibm.box.com/s/ywp06ek3ryfkx4kq5svke049b02rkjgv) | |
 | - Challenge Participants  | |
-| - [Tengfei Ma](#tengfei-ma) (IBM),  [video](https://ibm.box.com/s/nfz61k2wsfk66kh9gf2oi349ud6tfgjh) | |
+| - [Tengfei Ma](#tengfei-ma) (IBM),  [video](https://ibm.box.com/s/qx3vxb1jtodgmhoe4zur05f2zba2mc34) | |
 | Workshop Closing  |   |
 
 Please also check out the rest of the [AI Week](https://ibm.biz/ai-research-week) program.
